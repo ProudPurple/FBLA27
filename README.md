@@ -1,8 +1,12 @@
-# SignUpGenius Tracker
+# Nonprofit Volunteer Managment
 
-Desktop app that tracks volunteer sign-up progress on SignUpGenius sheets.
-It's a React app rendered inside a native window (via pywebview), backed by
-a Python + SQLite scraper.
+Your solution should help nonprofit organizations coordinate volunteers, manage service opportunities, maintain records, and monitor participation while supporting the needs of both volunteers and organization leaders.
+
+## TODO
+- Capable of scraping more sites
+- Send out info
+- Better UI
+- Record Keeping
 
 You only need to touch two folders:
 - `frontend/src/` — the React UI
